@@ -52,4 +52,4 @@ This project demonstrates how SQL can be used to analyze real-world data and gen
 ---
 
 ## 🔗  Project Link
-https://github.com/your-username/pizza-sales-sql-analysis
+https://github.com/Deepak-Singh-84/pizza-sales----sql
