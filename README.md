@@ -41,8 +41,8 @@ pizza-sales-sql-analysis/
 ---
 
 ## 📄 Files Included
-- [SQL Queries](./sql_queries/)
-- [Project Report](./report/project-report.pdf)
+- [SQL Queries](./pizzahut/sql-quaries/)
+- [Project Report](./pizzahut/report/pizza_sales.pdf_compressed.pdf)
 
 ---
 
